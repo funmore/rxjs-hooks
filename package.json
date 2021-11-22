@@ -1,10 +1,10 @@
 {
   "name": "rxjs-enhanced-hooks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React hooks for RxJS",
   "module": "dist/esm/index.js",
   "main": "dist/cjs/index.js",
-  "author": "LongYinan <lynweklm@gmail.com>",
+  "author": "funmore <fanziqing1234@gmail.com>",
   "license": "MIT",
   "typings": "dist/cjs/index.d.ts",
   "sideEffects": false,
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:LeetCode-OpenSource/rxjs-hooks.git"
+    "url": "git@github.com:funmore/rxjs-hooks.git"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
